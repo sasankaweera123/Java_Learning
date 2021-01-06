@@ -1,5 +1,5 @@
 
-package sorting;
+package pointers;
 
 
 public enum Colour {
