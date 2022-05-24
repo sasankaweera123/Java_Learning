@@ -3,3 +3,4 @@ Java is a high-level programming language developed by Sun Microsystems. It was 
 
 # LICENSE
 - MIT License
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
